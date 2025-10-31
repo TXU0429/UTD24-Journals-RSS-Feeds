@@ -13,7 +13,7 @@
 | Journal of Marketing  | Marketing  | https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmxa&type=etoc&feed=rss  | 2025-10-31  |
 | Journal of Marketing Research  | Marketing  | https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=mrja&type=axatoc&feed=rss  | 2025-10-31  |
 | Marketing Science  | Marketing  | Content Cell  | Content Cell  |
-| Management Science  | Management/Operations  | Content Cell  | Content Cell  |
+| Management Science  | Management/Operations  | https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc  | 2025-10-31  |
 | Operations Research  | Management, operations  | Content Cell  | Content Cell  |
 | Journal of Operations Management  | Management, operations  | https://onlinelibrary.wiley.com/feed/18731317/most-recent  | 2025-10-31  |
 | Manufacturing & Service Operations Management  | Management, operations  | Content Cell  | Content Cell  |
