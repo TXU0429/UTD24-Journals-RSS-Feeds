@@ -6,7 +6,7 @@
 | Journal of Finance  | Finance  | Content Cell  | Content Cell  |
 | Journal of Financial Economics  | Finance  | Content Cell  | Content Cell  |
 | The Review of Financial Studies  | Finance  | Content Cell  | Content Cell  |
-| Information Systems Research  | Information Systems  | Content Cell  | Content Cell  |
+| Information Systems Research  | Information Systems  | https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=isre  | 2025-10-31  |
 | Informs Journal on Computing  | Information Systems  | Content Cell  | Content Cell  |
 | MIS Quarterly  | Information Systems  | Content Cell  | Content Cell  |
 | Journal of Consumer Research  | Marketing  | Content Cell  | Content Cell  |
