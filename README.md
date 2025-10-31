@@ -20,7 +20,7 @@
 | Production and Operations Management  | Management, operations  | Content Cell  | Content Cell  |
 | Academy of Management Journal   | Management  | https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amj  | 2025-10-31  |
 | Academy of Management Review  | Management  | https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amr  | 2025-10-31  |
-| Administrative Science Quarterly   | Management  | Content Cell  | Content Cell  |
+| Administrative Science Quarterly   | Management  | https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=asqa&type=etoc&feed=rss  | 2025-10-31  |
 | Organization Science  | Management  | Content Cell  | Content Cell  |
 | Journal of International Business Studies  | Management  | Content Cell  | Content Cell  |
 | Strategic Management Journal  | Management | Content Cell  | Content Cell  |
