@@ -8,7 +8,7 @@
 | The Review of Financial Studies  |  Content Cell  | Content Cell  |
 | Information Systems Research  |  https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=isre  | 2025-10-31  |
 | Informs Journal on Computing  | Content Cell  | Content Cell  |
-| MIS Quarterly  |  Content Cell  | Content Cell  |
+| MIS Quarterly  |  https://aisel.aisnet.org/misq/recent.rss  | 2025-10-31  |
 | Journal of Consumer Research  |  https://consumerresearcher.com/feed  | 2025-10-31  |
 | Journal of Marketing  |  https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmxa&type=etoc&feed=rss  | 2025-10-31  |
 | Journal of Marketing Research  |  https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=mrja&type=axatoc&feed=rss  | 2025-10-31  |
