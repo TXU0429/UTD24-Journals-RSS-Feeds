@@ -4,7 +4,7 @@
 | Journal of Accounting and Economics  | Accounting  | Content Cell  | Content Cell  |
 | Journal of Accounting Research  | Accounting  | https://onlinelibrary.wiley.com/feed/1475679x/most-recent  | 2025-10-31  |
 | Journal of Finance  | Finance  | https://onlinelibrary.wiley.com/feed/15406261/most-recent  | 2025-10-31  |
-| Journal of Financial Economics  | Finance  | Content Cell  | Content Cell  |
+| Journal of Financial Economics  | Finance  | https://rss.sciencedirect.com/publication/science/0304405X  | 2025-10-31  |
 | The Review of Financial Studies  | Finance  | Content Cell  | Content Cell  |
 | Information Systems Research  | Information Systems  | https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=isre  | 2025-10-31  |
 | Informs Journal on Computing  | Information Systems  | Content Cell  | Content Cell  |
