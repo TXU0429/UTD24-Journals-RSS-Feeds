@@ -9,7 +9,7 @@
 | Information Systems Research  | Information Systems  | https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=isre  | 2025-10-31  |
 | Informs Journal on Computing  | Information Systems  | Content Cell  | Content Cell  |
 | MIS Quarterly  | Information Systems  | Content Cell  | Content Cell  |
-| Journal of Consumer Research  | Marketing  | Content Cell  | Content Cell  |
+| Journal of Consumer Research  | Marketing  | https://consumerresearcher.com/feed  | 2025-10-31  |
 | Journal of Marketing  | Marketing  | Content Cell  | Content Cell  |
 | Journal of Marketing Research  | Marketing  | Content Cell  | Content Cell  |
 | Marketing Science  | Marketing  | Content Cell  | Content Cell  |
