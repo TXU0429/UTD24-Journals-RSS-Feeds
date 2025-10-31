@@ -15,7 +15,7 @@
 | Marketing Science  | Marketing  | Content Cell  | Content Cell  |
 | Management Science  | Management/Operations  | Content Cell  | Content Cell  |
 | Operations Research  | Management, operations  | Content Cell  | Content Cell  |
-| Journal of Operations Management  | Management, operations  | Content Cell  | Content Cell  |
+| Journal of Operations Management  | Management, operations  | https://onlinelibrary.wiley.com/feed/18731317/most-recent  | 2025-10-31  |
 | Manufacturing & Service Operations Management  | Management, operations  | Content Cell  | Content Cell  |
 | Production and Operations Management  | Management, operations  | Content Cell  | Content Cell  |
 | Academy of Management Journal   | Management  | https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amj  | 2025-10-31  |
