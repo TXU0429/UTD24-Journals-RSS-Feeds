@@ -17,7 +17,7 @@
 | Operations Research  |  https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=opre  | 2025-10-31  |
 | Journal of Operations Management  |  https://onlinelibrary.wiley.com/feed/18731317/most-recent  | 2025-10-31  |
 | Manufacturing & Service Operations Management  | https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=msom  | 2025-10-31  |
-| Production and Operations Management  |  Content Cell  | Content Cell  |
+| Production and Operations Management  |  https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=paoa  | 2025-10-31  |
 | Academy of Management Journal   |  https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amj  | 2025-10-31  |
 | Academy of Management Review  | https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amr  | 2025-10-31  |
 | Administrative Science Quarterly   |  https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=asqa&type=etoc&feed=rss  | 2025-10-31  |
