@@ -16,7 +16,7 @@
 | Management Science  | Management/Operations  | https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc  | 2025-10-31  |
 | Operations Research  | Management, operations  | Content Cell  | Content Cell  |
 | Journal of Operations Management  | Management, operations  | https://onlinelibrary.wiley.com/feed/18731317/most-recent  | 2025-10-31  |
-| Manufacturing & Service Operations Management  | Management, operations  | Content Cell  | Content Cell  |
+| Manufacturing & Service Operations Management  | Management, operations  | https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=msom  | 2025-10-31  |
 | Production and Operations Management  | Management, operations  | Content Cell  | Content Cell  |
 | Academy of Management Journal   | Management  | https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amj  | 2025-10-31  |
 | Academy of Management Review  | Management  | https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amr  | 2025-10-31  |
