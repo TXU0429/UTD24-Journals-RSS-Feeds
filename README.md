@@ -18,7 +18,7 @@
 | Journal of Operations Management  | Management, operations  | Content Cell  | Content Cell  |
 | Manufacturing & Service Operations Management  | Management, operations  | Content Cell  | Content Cell  |
 | Production and Operations Management  | Management, operations  | Content Cell  | Content Cell  |
-| Academy of Management Journal   | Management  | Content Cell  | Content Cell  |
+| Academy of Management Journal   | Management  | https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amj  | Content Cell  |
 | Academy of Management Review  | Management  | Content Cell  | Content Cell  |
 | Administrative Science Quarterly   | Management  | Content Cell  | Content Cell  |
 | Organization Science  | Management  | Content Cell  | Content Cell  |
