@@ -1,7 +1,7 @@
 | Journal Name |  RSS Feed | Update Date |
 | ------------- | ------------- | ------------- |
 | The Accounting Review  |  Content Cell  | Content Cell  |
-| Journal of Accounting and Economics  |  Content Cell  | Content Cell  |
+| Journal of Accounting and Economics  |  https://rss.sciencedirect.com/publication/science/01654101  | 2025-10-31  |
 | Journal of Accounting Research  |  https://onlinelibrary.wiley.com/feed/1475679x/most-recent  | 2025-10-31  |
 | Journal of Finance  |  https://onlinelibrary.wiley.com/feed/15406261/most-recent  | 2025-10-31  |
 | Journal of Financial Economics  |  https://rss.sciencedirect.com/publication/science/0304405X  | 2025-10-31  |
