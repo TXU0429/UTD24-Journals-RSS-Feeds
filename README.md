@@ -10,7 +10,7 @@
 | Informs Journal on Computing  | Information Systems  | Content Cell  | Content Cell  |
 | MIS Quarterly  | Information Systems  | Content Cell  | Content Cell  |
 | Journal of Consumer Research  | Marketing  | https://consumerresearcher.com/feed  | 2025-10-31  |
-| Journal of Marketing  | Marketing  | Content Cell  | Content Cell  |
+| Journal of Marketing  | Marketing  | https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmxa&type=etoc&feed=rss  | 2025-10-31  |
 | Journal of Marketing Research  | Marketing  | Content Cell  | Content Cell  |
 | Marketing Science  | Marketing  | Content Cell  | Content Cell  |
 | Management Science  | Management/Operations  | Content Cell  | Content Cell  |
