@@ -23,4 +23,4 @@
 | Administrative Science Quarterly   | Management  | https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=asqa&type=etoc&feed=rss  | 2025-10-31  |
 | Organization Science  | Management  | https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=orsc  | 2025-10-31  |
 | Journal of International Business Studies  | Management  | Content Cell  | Content Cell  |
-| Strategic Management Journal  | Management | Content Cell  | Content Cell  |
+| Strategic Management Journal  | Management | https://onlinelibrary.wiley.com/feed/10970266/most-recent  | 2025-10-31  |
