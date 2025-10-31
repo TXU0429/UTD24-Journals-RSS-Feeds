@@ -7,7 +7,7 @@
 | Journal of Financial Economics  |  https://rss.sciencedirect.com/publication/science/0304405X  | 2025-10-31  |
 | The Review of Financial Studies  |  https://academic.oup.com/rss/site_5511/3372.xml | 2025-10-31  |
 | Information Systems Research  |  https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=isre  | 2025-10-31  |
-| Informs Journal on Computing  | Content Cell  | Content Cell  |
+| Informs Journal on Computing  | https://pubsonline.informs.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ijoc  | 2025-10-31  |
 | MIS Quarterly  |  https://aisel.aisnet.org/misq/recent.rss  | 2025-10-31  |
 | Journal of Consumer Research  |  https://consumerresearcher.com/feed  | 2025-10-31  |
 | Journal of Marketing  |  https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmxa&type=etoc&feed=rss  | 2025-10-31  |
